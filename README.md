@@ -26,6 +26,7 @@ The joint-matching process is implemented in [joint_matching.cpp](./src/joint_ma
 ## Contributing
 
 Kaiduo FANG      - kaiduo8.fang@connect.polyu.hk
+
 Ivan Wang-Hei Ho - ivanwh.ho@polyu.edu.hk
 
 ## License
